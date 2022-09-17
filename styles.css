@@ -1,9 +1,11 @@
+/* ALTERAÇÃO GLOBAL */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* FOTO DE PERFILE */
 header div {
     width: 120px;
     margin: auto;
@@ -30,10 +32,12 @@ header {
     height: 152px;
 }
 
+/* EXCLUIR ESTILO DE LISTA */
 ul {
     list-style: none;
 }
 
+/* FORMATANDO BODY */
 body {
     background-image: url(./assets/bg.jpg);
     background-position: top center;
@@ -47,6 +51,7 @@ body * {
     line-height: 160%;
 }
 
+/* MAIN E SECTIONS */
 main {
     max-width: 580px;
     width: 90%;
@@ -94,6 +99,7 @@ section ul li:hover {
     transform: scale(1.1)
 }
 
+/* CLASSES E IDS */
 .games-list img {
     width: 90px;
     border-radius: 8px;
@@ -107,7 +113,6 @@ section ul li:hover {
 }
 
 /* ANIMATION */
-
 header div {
     animation: fromTop .7s .2s backwards;
 
