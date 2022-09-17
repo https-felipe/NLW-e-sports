@@ -4,7 +4,7 @@
 
 > Trilha Explorer 
 
-projeto construido no evento Next leve week da Rocketseat.
+projeto construido no evento Next level week da Rocketseat.
 
 [Clique aqui para acessar](https://incandescent-horse-f72989.netlify.app/)
 
